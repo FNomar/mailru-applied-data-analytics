@@ -1,2 +1,2 @@
 # mailru-applied-data-analytics
-VK Applied Data Analytics course
+Repository for lectures and homeworks for mail.ru Applied Data Analytics course
